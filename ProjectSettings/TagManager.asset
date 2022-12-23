@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NOTE
+  - WALL
+  - HIT_PLATE
+  - SHELL
+  - WALL_UP
+  - WALL_DOWN
+  - WALL_LEFT
+  - WALL_RIGHT
+  - PLAY
+  - STICK
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Summon_plate
+  - Note
+  - 
+  - Shell
+  - Wall
+  - STICK
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
